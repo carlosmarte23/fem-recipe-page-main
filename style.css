@@ -153,7 +153,8 @@ h2 {
 
 .recipe__time li {
   margin-top: 0.5rem;
-  padding-left: 1.5rem;
+  margin-left: 2rem;
+  padding-left: 1rem;
 }
 
 /* INGREDIENTS SECTION */
